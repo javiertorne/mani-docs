@@ -4,8 +4,8 @@ Documentos legales oficiales de la app Mani.
 
 ## 📄 Documentos disponibles
 
-- [Política de Privacidad (Español)](https://javiertorne.github.io/mani-docs/privacy/)
-- [Privacy Policy (English)](https://javiertorne.github.io/mani-docs/privacy/en/)
+- [Política de Privacidad (Español)](https://javiertorne.github.io/mani-docs/politica-privacidad-mani.html)
+- [Privacy Policy (English)](https://javiertorne.github.io/mani-docs/privacy-policy-mani.html)
 
 ## 📱 Sobre Mani
 
